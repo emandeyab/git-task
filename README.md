@@ -1,10 +1,10 @@
 # Git Task – Fawry Internship
 
-This project demonstrates using Git for branch management, commit history tracking, `reflog` navigation, and rebasing.
+This task demonstrates using Git for branch management, commit history tracking, `reflog` navigation, and rebasing.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Git log showing commit history
 ![Screenshot 1](screenshots/1.jpeg)
@@ -23,7 +23,7 @@ This project demonstrates using Git for branch management, commit history tracki
 
 ---
 
-## 🧠 Commands Used
+## Commands Used
 
 ```bash
 git branch develop
